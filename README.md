@@ -15,4 +15,4 @@ A simple multi-player dice game implemented in Python.
 
 ## How to Run
 ```bash
-python dice_game.py
+python pig.py
